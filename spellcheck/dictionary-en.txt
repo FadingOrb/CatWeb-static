@@ -1204,6 +1204,7 @@ horse
 hospital
 host
 hotel
+hippopotomonstrosesquippedaliophobia
 hour
 house
 household
